@@ -1,0 +1,21 @@
+{
+    "author": "vee.lesyk@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "mars-time-watchface",
+    "pebble": {
+        "displayName": "Mars Time WatchFace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "40f60822-62da-4fb3-8621-0f95443aa12d",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
