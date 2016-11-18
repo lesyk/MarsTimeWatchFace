@@ -5,4 +5,4 @@ Pebble Watchface written in JavaScript using Rocky.js.
 
 Read more about Mars time conversion [here](https://jtauber.github.io/mars-clock/).
 
-![Mars Time WatchFace Pebble](https://github.com/lesyk/MarsTimeWatchFace/blob/master/demo.png){ width=50% }
+![Mars Time WatchFace Pebble](https://github.com/lesyk/MarsTimeWatchFace/blob/master/demo.png)
