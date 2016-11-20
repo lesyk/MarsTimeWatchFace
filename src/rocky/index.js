@@ -28,7 +28,7 @@ rocky.on('draw', function(event) {
   ctx.fillStyle = 'white';
   ctx.textAlign = 'center';
   ctx.font = '42px light Bitham';
-  ctx.fillText(h_to_hms(mtc)+" SOL", w/2, h/4, w);
+  ctx.fillText(h_to_hms(mtc)+" CMT", w/2, h/4, w);
 });
 
 rocky.on('minutechange', function(event) {
